@@ -6,3 +6,7 @@ Simply add the following line to the `<head>` section of your HTML file:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/BORITH-Monorom/css-library@main/style.css" />
+
+Try add commit if not working
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/BORITH-Monorom/css-library@<commit-hash>/style.css">
